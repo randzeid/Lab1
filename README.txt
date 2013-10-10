@@ -18,4 +18,4 @@ Den <span> taggen brukes til å gruppere inline-elementer
  i et dokument. Den gir ingen 
 visuell endring av seg selv men gir en måte 
 til å legge til en krok til en del av en tekst eller 
-en del av et dokument. 
+en del av et dokument.
