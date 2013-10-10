@@ -1,4 +1,4 @@
-function endring()
+function langList()
 {
 var språktype="";
 
